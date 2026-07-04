@@ -1,0 +1,180 @@
+/* ===========================================================
+   Psiquiatra Gamer — identidade neon (derivada do logo)
+   Persona / conteúdo cultural. NÃO usar paleta profissional.
+   =========================================================== */
+
+:root{
+  --bg:      #0b0c1e;
+  --bg-2:    #12142e;
+  --bg-3:    #191c3d;
+  --text:    #e9eaf6;
+  --muted:   #9aa0c8;
+  --border:  rgba(255,255,255,.09);
+
+  --magenta: #ff2e88;
+  --lime:    #b6ff3d;
+  --cyan:    #24e3d0;
+  --yellow:  #ffe23d;
+
+  --maxw: 1140px;
+  --prose: 720px;
+  --radius: 16px;
+  --font-head: "Poppins", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--font-body);
+  font-size:18px;
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+}
+body::before{ /* brilho neon de fundo, sutil */
+  content:"";
+  position:fixed; inset:0; z-index:-1; pointer-events:none;
+  background:
+    radial-gradient(600px 400px at 12% -5%, rgba(36,227,208,.10), transparent 60%),
+    radial-gradient(700px 500px at 95% 0%, rgba(255,46,136,.10), transparent 60%),
+    radial-gradient(700px 600px at 50% 120%, rgba(182,255,61,.06), transparent 60%);
+}
+a{color:var(--cyan); text-decoration:none}
+a:hover{text-decoration:underline}
+img{max-width:100%; display:block}
+.wrap{max-width:var(--maxw); margin:0 auto; padding:0 24px}
+
+/* ---------- Header / nav ---------- */
+.nav{
+  position:sticky; top:0; z-index:50;
+  background:rgba(11,12,30,.82);
+  backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--border);
+}
+.nav-inner{display:flex; align-items:center; gap:24px; height:68px}
+.brand{display:flex; align-items:center; gap:12px; font-family:var(--font-head); font-weight:800; letter-spacing:.5px}
+.brand img{height:40px; width:40px; border-radius:9px}
+.brand span{font-size:15px}
+.brand .b1{color:var(--yellow)} .brand .b2{color:var(--magenta)}
+.nav-links{margin-left:auto; display:flex; gap:22px; flex-wrap:wrap}
+.nav-links a{color:var(--muted); font-weight:600; font-size:14.5px; text-transform:uppercase; letter-spacing:.6px}
+.nav-links a:hover{color:var(--text); text-decoration:none}
+.nav-yt{color:var(--bg)!important; background:var(--magenta); padding:8px 14px; border-radius:999px}
+.nav-yt:hover{filter:brightness(1.08)}
+
+/* ---------- Hero ---------- */
+.hero{padding:74px 0 46px; text-align:center}
+.hero img.logo{height:150px; width:150px; margin:0 auto 26px; border-radius:26px;
+  box-shadow:0 0 0 1px var(--border), 0 20px 60px rgba(0,0,0,.5)}
+.hero h1{font-family:var(--font-head); font-weight:800; font-size:clamp(30px,5vw,52px); line-height:1.08; margin:.2em 0}
+.hero .accent-y{color:var(--yellow)} .hero .accent-m{color:var(--magenta)} .hero .accent-c{color:var(--cyan)}
+.hero p.tag{color:var(--muted); font-size:clamp(16px,2.4vw,21px); max-width:620px; margin:14px auto 0}
+
+/* ---------- Section headers ---------- */
+.section{padding:26px 0 10px}
+.section-head{display:flex; align-items:baseline; gap:14px; margin:14px 0 22px}
+.section-head h2{font-family:var(--font-head); font-weight:800; font-size:24px; margin:0}
+.section-head .rule{flex:1; height:2px; background:linear-gradient(90deg,var(--cyan),transparent); opacity:.5}
+
+/* ---------- Cards ---------- */
+.grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:22px; padding-bottom:20px}
+.card{
+  background:linear-gradient(180deg,var(--bg-2),var(--bg-3));
+  border:1px solid var(--border); border-radius:var(--radius);
+  padding:24px; display:flex; flex-direction:column; gap:12px;
+  transition:transform .18s ease, border-color .18s ease, box-shadow .18s ease;
+}
+.card:hover{transform:translateY(-4px); border-color:rgba(36,227,208,.5); box-shadow:0 16px 40px rgba(0,0,0,.4)}
+.card h3{font-family:var(--font-head); font-weight:700; font-size:20px; line-height:1.25; margin:2px 0}
+.card h3 a{color:var(--text)}
+.card h3 a:hover{color:var(--cyan); text-decoration:none}
+.card p{color:var(--muted); font-size:15.5px; margin:0}
+.card .more{margin-top:auto; font-weight:700; color:var(--lime); font-size:14px}
+
+/* chips de categoria */
+.chip{display:inline-block; font-family:var(--font-head); font-weight:700; font-size:11.5px;
+  text-transform:uppercase; letter-spacing:.8px; padding:5px 11px; border-radius:999px; width:fit-content}
+.chip.analises{color:var(--cyan);   background:rgba(36,227,208,.12);  border:1px solid rgba(36,227,208,.4)}
+.chip.personagens{color:var(--yellow); background:rgba(255,226,61,.12); border:1px solid rgba(255,226,61,.4)}
+.chip.conceitos{color:var(--lime);   background:rgba(182,255,61,.12);  border:1px solid rgba(182,255,61,.4)}
+.chip.cultura{color:var(--magenta); background:rgba(255,46,136,.12);  border:1px solid rgba(255,46,136,.4)}
+
+/* ---------- Faixa de pilares ---------- */
+.pillars{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px; margin:8px 0 20px}
+.pillar{background:var(--bg-2); border:1px solid var(--border); border-radius:12px; padding:16px}
+.pillar b{display:block; font-family:var(--font-head); font-size:15px; margin-bottom:4px}
+.pillar small{color:var(--muted); font-size:13px; line-height:1.5}
+
+/* ---------- CTA canal ---------- */
+.cta-band{margin:40px 0; padding:34px; border-radius:var(--radius); text-align:center;
+  background:linear-gradient(120deg, rgba(255,46,136,.16), rgba(36,227,208,.14));
+  border:1px solid var(--border)}
+.cta-band h2{font-family:var(--font-head); font-weight:800; font-size:26px; margin:0 0 8px}
+.cta-band p{color:var(--muted); margin:0 auto 18px; max-width:520px}
+.btn{display:inline-block; font-family:var(--font-head); font-weight:700; font-size:15px;
+  padding:13px 26px; border-radius:999px; background:var(--magenta); color:var(--bg)}
+.btn:hover{filter:brightness(1.08); text-decoration:none}
+
+/* ---------- Artigo ---------- */
+.article{padding:38px 0 10px}
+.article-head{max-width:var(--prose); margin:0 auto 26px}
+.article-head .chip{margin-bottom:16px}
+.article-head h1{font-family:var(--font-head); font-weight:800; font-size:clamp(28px,4.4vw,44px); line-height:1.12; margin:0 0 16px}
+.byline{display:flex; align-items:center; gap:12px; color:var(--muted); font-size:14.5px}
+.byline .dot{width:4px;height:4px;border-radius:50%;background:var(--muted)}
+.prose{max-width:var(--prose); margin:0 auto}
+.prose h2{font-family:var(--font-head); font-weight:800; font-size:26px; line-height:1.2; margin:44px 0 12px; color:var(--text)}
+.prose h2::before{content:""; display:block; width:44px; height:3px; border-radius:3px;
+  background:linear-gradient(90deg,var(--magenta),var(--cyan)); margin-bottom:14px}
+.prose p{margin:0 0 20px}
+.prose strong{color:#fff}
+.prose em{color:#dfe1f4}
+.prose a{color:var(--lime); text-decoration:underline; text-underline-offset:3px}
+
+/* aviso de spoiler / destaque */
+.callout{border-left:4px solid var(--magenta); background:rgba(255,46,136,.08);
+  padding:16px 20px; border-radius:0 12px 12px 0; margin:0 0 28px; color:#ffd7e6; font-size:16px}
+.callout.soft{border-color:var(--cyan); background:rgba(36,227,208,.08); color:#cdf6f1}
+
+/* embed do vídeo (placeholder) */
+.embed{max-width:var(--prose); margin:40px auto; }
+.embed .frame{position:relative; aspect-ratio:16/9; border-radius:14px; overflow:hidden;
+  border:1px solid rgba(255,46,136,.5);
+  background:
+    radial-gradient(400px 200px at 50% 40%, rgba(255,46,136,.18), transparent 70%),
+    var(--bg-2);
+  display:flex; align-items:center; justify-content:center; text-align:center}
+.embed .frame span{font-family:var(--font-head); font-weight:700; color:var(--muted); font-size:15px; padding:0 20px}
+.embed .frame span b{color:var(--magenta)}
+
+/* referências / relacionados */
+.article-foot{max-width:var(--prose); margin:38px auto 0}
+.article-foot .box{background:var(--bg-2); border:1px solid var(--border); border-radius:12px; padding:18px 20px; margin-bottom:18px}
+.article-foot h4{font-family:var(--font-head); font-size:13px; text-transform:uppercase; letter-spacing:.8px; color:var(--muted); margin:0 0 10px}
+.article-foot .rel a{display:inline-block; margin:0 14px 8px 0; font-weight:600}
+.article-foot .refs{color:var(--muted); font-size:14px; line-height:1.7}
+.backlink{display:inline-block; margin:8px auto 0; color:var(--muted); font-weight:600; font-size:14px}
+
+/* anúncio (placeholder — ativar após aprovação AdSense) */
+.ad-slot{max-width:var(--prose); margin:36px auto; min-height:1px}
+
+/* ---------- Footer ---------- */
+.footer{margin-top:60px; border-top:1px solid var(--border); background:rgba(0,0,0,.25)}
+.footer-inner{display:flex; flex-wrap:wrap; gap:30px; justify-content:space-between; padding:40px 0}
+.footer .brand img{height:44px;width:44px}
+.footer .fcol h5{font-family:var(--font-head); font-size:13px; text-transform:uppercase; letter-spacing:.8px; color:var(--muted); margin:0 0 12px}
+.footer .fcol a{display:block; color:var(--text); opacity:.85; font-size:14.5px; margin-bottom:8px}
+.footer .fcol a:hover{opacity:1; color:var(--cyan); text-decoration:none}
+.footer .small{color:var(--muted); font-size:13px; max-width:320px; line-height:1.6}
+.legal{border-top:1px solid var(--border); padding:16px 0; color:var(--muted); font-size:12.5px; text-align:center}
+
+@media(max-width:640px){
+  body{font-size:17px}
+  .nav-inner{height:60px; gap:12px}
+  .nav-links{gap:14px}
+  .nav-links a{font-size:12.5px}
+  .hero{padding:48px 0 30px}
+}
