@@ -161,6 +161,15 @@ img{max-width:100%; display:block}
 /* anúncio (placeholder — ativar após aprovação AdSense) */
 .ad-slot{max-width:var(--prose); margin:36px auto; min-height:1px}
 
+/* box de compra (afiliado Amazon) */
+.buybox{max-width:var(--prose); margin:34px auto; padding:22px 24px;
+  border:1px solid rgba(182,255,61,.35); background:rgba(182,255,61,.06); border-radius:14px}
+.buybox p{margin:0 0 14px; font-size:16px}
+.buybox .btn-buy{display:inline-block; font-family:var(--font-head); font-weight:800; font-size:15px;
+  padding:12px 24px; border-radius:999px; background:var(--lime); color:#0b0c1e}
+.buybox .btn-buy:hover{filter:brightness(1.05); text-decoration:none}
+.buybox .disc{display:block; color:var(--muted); font-size:12.5px; margin-top:12px; line-height:1.5}
+
 /* ---------- Footer ---------- */
 .footer{margin-top:60px; border-top:1px solid var(--border); background:rgba(0,0,0,.25)}
 .footer-inner{display:flex; flex-wrap:wrap; gap:30px; justify-content:space-between; padding:40px 0}
