@@ -173,8 +173,16 @@ img{max-width:100%; display:block}
 
 /* box de compra (afiliado Amazon) */
 .buybox{max-width:var(--prose); margin:34px auto; padding:22px 24px;
-  border:1px solid rgba(182,255,61,.35); background:rgba(182,255,61,.06); border-radius:14px}
+  border:1px solid rgba(182,255,61,.35); background:rgba(182,255,61,.06); border-radius:14px;
+  display:flex; gap:20px; align-items:center}
+.buybox .buy-cover{flex:none; width:132px; height:auto; max-height:190px; object-fit:contain;
+  border-radius:10px; background:#0b0c1e; box-shadow:0 6px 20px rgba(0,0,0,.35)}
+.buybox .buy-body{flex:1; min-width:0}
 .buybox p{margin:0 0 14px; font-size:16px}
+@media(max-width:560px){
+  .buybox{flex-direction:column; align-items:stretch; text-align:center}
+  .buybox .buy-cover{width:120px; margin:0 auto}
+}
 .buybox .btn-buy{display:inline-block; font-family:var(--font-head); font-weight:800; font-size:15px;
   padding:12px 24px; border-radius:999px; background:var(--lime); color:#0b0c1e}
 .buybox .btn-buy:hover{filter:brightness(1.05); text-decoration:none}
