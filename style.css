@@ -190,10 +190,14 @@ img{max-width:100%; display:block}
 .footer .small{color:var(--muted); font-size:13px; max-width:320px; line-height:1.6}
 .legal{border-top:1px solid var(--border); padding:16px 0; color:var(--muted); font-size:12.5px; text-align:center}
 
-@media(max-width:640px){
+@media(max-width:760px){
   body{font-size:17px}
-  .nav-inner{height:60px; gap:12px}
-  .nav-links{gap:14px}
-  .nav-links a{font-size:12.5px}
-  .hero{padding:48px 0 30px}
+  .nav-inner{height:auto; min-height:56px; gap:8px 14px; flex-wrap:wrap; padding:10px 0}
+  .brand{gap:8px}
+  .brand img{height:34px; width:34px}
+  .brand span{font-size:13px; white-space:nowrap}
+  .nav-links{margin-left:0; width:100%; justify-content:center; gap:10px 16px}
+  .nav-links a{font-size:12px; letter-spacing:.4px}
+  .nav-yt{padding:5px 12px}
+  .hero{padding:40px 0 26px}
 }
