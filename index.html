@@ -30,7 +30,7 @@
 
 <style>
   .home-layout{display:grid;grid-template-columns:262px 1fr;gap:46px;align-items:start;margin-top:8px}
-  .home-side{position:sticky;top:86px}
+  .home-side{position:sticky;top:86px;max-height:calc(100vh - 96px);overflow-y:auto;overflow-x:hidden;padding-right:10px;scrollbar-width:thin}
   .home-side .arc-side-label{font-family:var(--font-head);font-weight:800;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
   .home-side .arc-tabs{display:flex;flex-direction:column;gap:6px;margin-bottom:8px}
   .home-side .arc-tab{text-align:left;padding:10px 14px;border-radius:10px;border:1px solid var(--border);background:transparent;color:var(--text);font-weight:600;font-size:14px;cursor:pointer;font-family:var(--font-body)}
@@ -45,7 +45,7 @@
   .home-side .arc-grp-h .n{opacity:.6;font-size:12px}
   @media(max-width:900px){
     .home-layout{grid-template-columns:1fr;gap:18px}
-    .home-side{position:static;margin-bottom:6px}
+    .home-side{position:static;margin-bottom:6px;max-height:none;overflow:visible;padding-right:0}
     .home-side .arc-tabs{flex-direction:row;flex-wrap:wrap}
     .home-side .arc-tab{flex:1 1 auto}
   }
