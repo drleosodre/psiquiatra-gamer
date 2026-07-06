@@ -27,6 +27,29 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "WebSite", "name": "Psiquiatra Gamer", "url": "https://psiquiatragamer.com.br/", "inLanguage": "pt-BR", "description": "Análises de videogames e cultura pop pela lente da psicanálise. Sem clichê de autoajuda: o ângulo psicológico é o diferencial.", "publisher": {"@type": "Organization", "name": "Psiquiatra Gamer", "logo": {"@type": "ImageObject", "url": "https://psiquiatragamer.com.br/logo.png"}}}
 </script>
+
+<style>
+  .home-layout{display:grid;grid-template-columns:262px 1fr;gap:46px;align-items:start;margin-top:8px}
+  .home-side{position:sticky;top:86px}
+  .home-side .arc-side-label{font-family:var(--font-head);font-weight:800;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+  .home-side .arc-tabs{display:flex;flex-direction:column;gap:6px;margin-bottom:8px}
+  .home-side .arc-tab{text-align:left;padding:10px 14px;border-radius:10px;border:1px solid var(--border);background:transparent;color:var(--text);font-weight:600;font-size:14px;cursor:pointer;font-family:var(--font-body)}
+  .home-side .arc-tab:hover{border-color:var(--cyan)}
+  .home-side .arc-tab.on{background:var(--cyan);color:#06121f;border-color:var(--cyan)}
+  .home-side .arc-view{display:none;padding:14px 0 4px}
+  .home-side .arc-view.on{display:block}
+  .home-side .arc-view a{display:block;color:var(--text);padding:6px 0 6px 14px;border-left:2px solid var(--border);font-size:13.5px;line-height:1.35}
+  .home-side .arc-view a:hover{color:var(--cyan);border-left-color:var(--cyan);text-decoration:none}
+  .home-side .arc-grp{margin-bottom:18px}
+  .home-side .arc-grp-h{font-family:var(--font-head);font-weight:700;font-size:12.5px;letter-spacing:.6px;text-transform:uppercase;color:var(--muted);margin:0 0 8px;display:flex;justify-content:space-between;align-items:center}
+  .home-side .arc-grp-h .n{opacity:.6;font-size:12px}
+  @media(max-width:900px){
+    .home-layout{grid-template-columns:1fr;gap:18px}
+    .home-side{position:static;margin-bottom:6px}
+    .home-side .arc-tabs{flex-direction:row;flex-wrap:wrap}
+    .home-side .arc-tab{flex:1 1 auto}
+  }
+</style>
 </head>
 <body>
 
@@ -56,6 +79,93 @@
 </section>
 
 <main class="wrap">
+  <div class="home-layout">
+    <aside class="home-side">
+      <div class="arc-side-label">Navegar por</div>
+      <div class="arc-tabs">
+        <button class="arc-tab on" data-tab="jogo">Por jogo (A–Z)</button>
+        <button class="arc-tab" data-tab="data">Por data</button>
+        <button class="arc-tab" data-tab="cat">Por categoria</button>
+      </div>
+      <nav class="arc-view on" id="view-jogo">
+      <a href="a-plague-tale.html">A Plague Tale</a>
+      <a href="alan-wake.html">Alan Wake</a>
+      <a href="bioshock.html">BioShock</a>
+      <a href="brutal-legend-ozzy.html">Brütal Legend (Ozzy)</a>
+      <a href="death-stranding.html">Death Stranding</a>
+      <a href="death-stranding-2.html">Death Stranding 2</a>
+      <a href="gears-of-war.html">Gears of War</a>
+      <a href="samurai-e-ninja.html">Ghost of Yōtei</a>
+      <a href="god-of-war.html">God of War</a>
+      <a href="gta.html">GTA</a>
+      <a href="fomo-gta6.html">GTA 6 (FOMO)</a>
+      <a href="hellblade-senua.html">Hellblade</a>
+      <a href="life-is-strange.html">Life is Strange</a>
+      <a href="playstation-sem-midia-fisica.html">PlayStation (mídia física)</a>
+      <a href="red-dead-redemption-2.html">Red Dead Redemption 2</a>
+      <a href="resident-evil.html">Resident Evil</a>
+      <a href="silent-hill-2.html">Silent Hill 2</a>
+      <a href="the-last-of-us-2.html">The Last of Us 2</a>
+      <a href="the-plucky-squire.html">The Plucky Squire</a>
+      <a href="warhammer-40000.html">Warhammer 40.000</a>
+      </nav>
+      <nav class="arc-view" id="view-data">
+      <a href="gozo-jouissance.html">Por que a gente continua jogando o que já cansou de divertir</a>
+      <a href="playstation-sem-midia-fisica.html">PlayStation sem mídia física: a angústia de não ser dono do jogo</a>
+      <a href="resident-evil.html">Resident Evil: o horror do corpo que se recusa a morrer</a>
+      <a href="alan-wake.html">Alan Wake: o escritor diante do próprio inconsciente</a>
+      <a href="life-is-strange.html">Life is Strange: rebobinar o tempo é uma defesa psíquica</a>
+      <a href="warhammer-40000.html">Warhammer 40.000: um império que adora um pai morto</a>
+      <a href="gears-of-war.html">Gears of War: a armadura viril e o luto por baixo dela</a>
+      <a href="a-plague-tale.html">A Plague Tale: a mãe morta e o filho marcado</a>
+      <a href="bioshock.html">BioShock: &quot;Would you kindly&quot; e a ilusão do livre-arbítrio</a>
+      <a href="hellblade-senua.html">Hellblade: a psicose vista por dentro</a>
+      <a href="red-dead-redemption-2.html">Red Dead Redemption 2: Arthur Morgan e a redenção psíquica</a>
+      <a href="god-of-war.html">God of War: tragédia grega, Édipo e a fúria de Kratos</a>
+      <a href="silent-hill-2.html">Silent Hill 2: a culpa e o retorno do recalcado</a>
+      <a href="fomo-gta6.html">FOMO nos games: o que o GTA 6 revela sobre o desejo</a>
+      <a href="brutal-legend-ozzy.html">Ozzy Osbourne nos videogames: o excesso que não se cala</a>
+      <a href="samurai-e-ninja.html">Por que amamos samurais e ninjas? A psicanálise responde</a>
+      <a href="death-stranding-2.html">Death Stranding 2: luto, trauma e depressão</a>
+      <a href="death-stranding.html">Death Stranding: a psicanálise por trás do jogo do Kojima</a>
+      <a href="gta.html">Por que o GTA é tão viciante? A psicanálise explica</a>
+      <a href="the-last-of-us-2.html">The Last of Us 2: por que a história se sabota</a>
+      <a href="the-plucky-squire.html">The Plucky Squire: análise psicológica e significado</a>
+      </nav>
+      <nav class="arc-view" id="view-cat">
+      <div class="arc-grp">
+        <div class="arc-grp-h">Análises <span class="n">15</span></div>
+        <a href="resident-evil.html">Resident Evil</a>
+        <a href="alan-wake.html">Alan Wake</a>
+        <a href="life-is-strange.html">Life is Strange</a>
+        <a href="warhammer-40000.html">Warhammer 40.000</a>
+        <a href="gears-of-war.html">Gears of War</a>
+        <a href="a-plague-tale.html">A Plague Tale</a>
+        <a href="bioshock.html">BioShock</a>
+        <a href="hellblade-senua.html">Hellblade</a>
+        <a href="red-dead-redemption-2.html">Red Dead Redemption 2</a>
+        <a href="god-of-war.html">God of War</a>
+        <a href="silent-hill-2.html">Silent Hill 2</a>
+        <a href="death-stranding-2.html">Death Stranding 2</a>
+        <a href="death-stranding.html">Death Stranding</a>
+        <a href="gta.html">GTA</a>
+        <a href="the-last-of-us-2.html">The Last of Us 2</a>
+      </div>
+      <div class="arc-grp">
+        <div class="arc-grp-h">Cultura Gamer <span class="n">5</span></div>
+        <a href="playstation-sem-midia-fisica.html">PlayStation (mídia física)</a>
+        <a href="fomo-gta6.html">GTA 6 (FOMO)</a>
+        <a href="brutal-legend-ozzy.html">Brütal Legend (Ozzy)</a>
+        <a href="samurai-e-ninja.html">Ghost of Yōtei</a>
+        <a href="the-plucky-squire.html">The Plucky Squire</a>
+      </div>
+      <div class="arc-grp">
+        <div class="arc-grp-h">Conceitos <span class="n">1</span></div>
+        <a href="gozo-jouissance.html">Por que a gente continua jogando o que já cansou de divertir</a>
+      </div>
+      </nav>
+    </aside>
+    <div class="home-main">
 
   <!-- ===== Últimas análises ===== -->
   <section class="section" id="analises">
@@ -235,6 +345,8 @@
     <a class="btn" href="https://www.youtube.com/@PsiquiatraGamer" target="_blank" rel="noopener">▶ Inscreva-se no Psiquiatra Gamer</a>
   </section>
 
+    </div><!-- /home-main -->
+  </div><!-- /home-layout -->
 </main>
 
 <footer class="footer">
@@ -262,5 +374,15 @@
   <div class="legal">© <span id="y"></span> Psiquiatra Gamer · Conteúdo cultural e autoral.</div>
 </footer>
 <script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+<script>
+  document.querySelectorAll('.home-side .arc-tab').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('.home-side .arc-tab').forEach(function(x){x.classList.remove('on')});
+      document.querySelectorAll('.home-side .arc-view').forEach(function(x){x.classList.remove('on')});
+      b.classList.add('on');
+      document.getElementById('view-'+b.dataset.tab).classList.add('on');
+    });
+  });
+</script>
 </body>
 </html>
