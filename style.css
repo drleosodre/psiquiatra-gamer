@@ -234,8 +234,11 @@ img{max-width:100%; display:block}
 .site-side .arc-grp-h .n{opacity:.6;font-size:12px}
 .site-layout>article.article{padding-top:6px}
 @media(max-width:900px){
-  .site-layout{grid-template-columns:1fr;padding:0}
-  .site-side{position:static;max-height:none;overflow:visible;padding:16px 20px 0}
+  .site-layout{display:flex;flex-direction:column;padding:0}
+  .site-layout>article.article{order:1;padding-top:20px}
+  .site-side{order:2;position:static;max-height:none;overflow:visible;
+    margin:8px 20px 40px;padding:24px 0 0;border-top:1px solid var(--border)}
+  .site-side .arc-side-label{margin-top:4px}
   .site-side .arc-tabs{flex-direction:row;flex-wrap:wrap}
   .site-side .arc-tab{flex:1 1 auto}
 }
