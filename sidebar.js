@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"o-olhar-no-horror", t:"Por que o monstro que te encara dá mais medo", g:null, c:"conceitos"},
     {s:"gozo-jouissance", t:"Por que a gente continua jogando o que já cansou de divertir", g:null, c:"conceitos"},
     {s:"playstation-sem-midia-fisica", t:"PlayStation sem mídia física: a angústia de não ser dono do jogo", g:"PlayStation (mídia física)", c:"cultura"},
     {s:"resident-evil", t:"Resident Evil: o horror do corpo que se recusa a morrer", g:"Resident Evil", c:"analises"},
