@@ -1,4 +1,4 @@
-/* Side navigation menu — single source, injected on every article page (English).
+/* Side navigation menu, single source, injected on every article page (English).
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
