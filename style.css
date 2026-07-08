@@ -64,6 +64,11 @@ img{max-width:100%; display:block}
 .nav-links a:hover{color:var(--text); text-decoration:none}
 .nav-yt{color:var(--bg)!important; background:var(--magenta); padding:8px 14px; border-radius:999px}
 .nav-yt:hover{filter:brightness(1.08)}
+.nav-lang{display:inline-flex; align-items:center; gap:7px; border:1px solid var(--border); padding:6px 12px; border-radius:999px; font-size:13px!important; letter-spacing:.6px}
+.nav-lang a{color:var(--muted)!important}
+.nav-lang a:hover{color:var(--cyan)!important; text-decoration:none}
+.nav-lang .on{color:var(--text); font-weight:700}
+.nav-lang .sep{color:var(--muted); opacity:.5}
 
 /* ---------- Hero ---------- */
 .hero{padding:74px 0 46px; text-align:center}
@@ -189,10 +194,12 @@ img{max-width:100%; display:block}
 .buybox .disc{display:block; color:var(--muted); font-size:12.5px; margin-top:12px; line-height:1.5}
 
 /* comentários (Cusdis) */
-.comments-section{max-width:var(--prose); margin:8px auto 46px; padding:26px 24px 0;
-  border-top:1px solid var(--line)}
-.comments-title{font-family:var(--font-head); font-weight:800; font-size:22px; margin:0 0 18px; color:var(--text)}
-#cusdis_thread{color-scheme:dark}
+.comments-section{max-width:var(--prose); margin:30px auto 52px; padding:28px 26px 30px;
+  background:rgba(255,255,255,.025); border:1px solid var(--line); border-radius:16px}
+.comments-title{font-family:var(--font-head); font-weight:800; font-size:22px; margin:0 0 6px; color:var(--text)}
+.comments-intro{color:var(--muted); font-size:15px; line-height:1.65; margin:0 0 22px; max-width:62ch}
+#cusdis_thread{color-scheme:dark; width:100%}
+#cusdis_thread iframe{width:100% !important; min-height:520px; border:0; display:block}
 
 /* ---------- Footer ---------- */
 .footer{margin-top:60px; border-top:1px solid var(--border); background:rgba(0,0,0,.25)}
