@@ -1,4 +1,4 @@
-/* Menu lateral de navegação — fonte única, injetado em todas as páginas de artigo.
+/* Menu lateral de navegação, fonte única, injetado em todas as páginas de artigo.
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
