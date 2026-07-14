@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"hype-frustracao", t:"Why the games we hype the most are the ones that disappoint us most", g:null, c:"cultura"},
     {s:"personas-streamers", t:"Streamers and the ego-ideal: who are you when the camera turns on", g:null, c:"cultura"},
     {s:"o-olhar-no-horror", t:"Why the monster that stares back scares you more", g:null, c:"conceitos"},
     {s:"gozo-jouissance", t:"Why we keep playing what stopped being fun", g:null, c:"conceitos"},
