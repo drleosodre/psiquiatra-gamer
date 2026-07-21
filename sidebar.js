@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"luto-nos-games", t:"O luto nos games: por que dói quando um personagem morre", g:null, c:"conceitos"},
     {s:"avatar-estagio-do-espelho", t:"O avatar e o espelho: por que a gente se apega ao personagem", g:null, c:"conceitos"},
     {s:"hype-frustracao", t:"Por que os jogos que a gente mais espera são os que mais decepcionam", g:null, c:"cultura"},
     {s:"personas-streamers", t:"Streamers e o eu-ideal: quem é você quando a câmera liga", g:null, c:"cultura"},
