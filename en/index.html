@@ -414,14 +414,24 @@
 </footer>
 <script>document.getElementById('y').textContent=new Date().getFullYear();</script>
 <script>
-  document.querySelectorAll('.home-side .arc-tab').forEach(function(b){
-    b.addEventListener('click',function(){
-      document.querySelectorAll('.home-side .arc-tab').forEach(function(x){x.classList.remove('on')});
-      document.querySelectorAll('.home-side .arc-view').forEach(function(x){x.classList.remove('on')});
-      b.classList.add('on');
-      document.getElementById('view-'+b.dataset.tab).classList.add('on');
+  (function(){
+    var side=document.querySelector('.home-side'); if(!side) return;
+    function setTab(tab){
+      var btn=side.querySelector('.arc-tab[data-tab="'+tab+'"]');
+      var view=document.getElementById('view-'+tab);
+      if(!btn||!view) return;
+      side.querySelectorAll('.arc-tab').forEach(function(x){x.classList.remove('on')});
+      side.querySelectorAll('.arc-view').forEach(function(x){x.classList.remove('on')});
+      btn.classList.add('on'); view.classList.add('on');
+    }
+    side.querySelectorAll('.arc-tab').forEach(function(b){
+      b.addEventListener('click',function(){
+        setTab(b.dataset.tab);
+        try{localStorage.setItem('pgArcTab',b.dataset.tab);}catch(e){}
+      });
     });
-  });
+    try{var s=localStorage.getItem('pgArcTab'); if(s && s!=='jogo') setTab(s);}catch(e){}
+  })();
 </script>
 </body>
 </html>

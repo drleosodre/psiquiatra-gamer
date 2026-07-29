@@ -73,14 +73,22 @@
     art.parentNode.insertBefore(layout, art);
     layout.appendChild(aside);
     layout.appendChild(art);
+    function setTab(tab){
+      var btn = aside.querySelector('.arc-tab[data-tab="'+tab+'"]');
+      var view = aside.querySelector('#sv-'+tab);
+      if(!btn||!view) return;
+      aside.querySelectorAll('.arc-tab').forEach(function(x){x.classList.remove('on');});
+      aside.querySelectorAll('.arc-view').forEach(function(x){x.classList.remove('on');});
+      btn.classList.add('on');
+      view.classList.add('on');
+    }
     aside.querySelectorAll('.arc-tab').forEach(function(b){
       b.addEventListener('click', function(){
-        aside.querySelectorAll('.arc-tab').forEach(function(x){x.classList.remove('on');});
-        aside.querySelectorAll('.arc-view').forEach(function(x){x.classList.remove('on');});
-        b.classList.add('on');
-        aside.querySelector('#sv-'+b.dataset.tab).classList.add('on');
+        setTab(b.dataset.tab);
+        try{localStorage.setItem('pgArcTab', b.dataset.tab);}catch(e){}
       });
     });
+    try{var saved=localStorage.getItem('pgArcTab'); if(saved && saved!=='jogo') setTab(saved);}catch(e){}
   }
   if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}
 })();
