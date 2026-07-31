@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"nostalgia-jogos-retro", t:"Retro-game nostalgia: why the past is such a comfort", g:null, c:"conceitos"},
     {s:"por-que-amamos-o-vilao", t:"Why do we love the villain? The psychoanalysis of the dark side", g:null, c:"conceitos"},
     {s:"luto-nos-games", t:"Grief in games: why it hurts when a character dies", g:null, c:"conceitos"},
     {s:"avatar-estagio-do-espelho", t:"The avatar and the mirror: why we get attached to the character", g:null, c:"conceitos"},
