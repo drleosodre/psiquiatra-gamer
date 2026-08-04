@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"escolhas-morais-culpa", t:"Moral choices in games: guilt, reparation, and Klein's mind", g:null, c:"conceitos"},
     {s:"terror-por-que-gostamos-de-medo", t:"Why we like to feel afraid in horror games", g:null, c:"conceitos"},
     {s:"nostalgia-jogos-retro", t:"Retro-game nostalgia: why the past is such a comfort", g:null, c:"conceitos"},
     {s:"por-que-amamos-o-vilao", t:"Why do we love the villain? The psychoanalysis of the dark side", g:null, c:"conceitos"},
