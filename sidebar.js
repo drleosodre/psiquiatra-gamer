@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"escolhas-morais-culpa", t:"Escolhas morais nos games: culpa, reparação e a mente de Klein", g:null, c:"conceitos"},
     {s:"terror-por-que-gostamos-de-medo", t:"Por que a gente gosta de sentir medo nos jogos de terror", g:null, c:"conceitos"},
     {s:"nostalgia-jogos-retro", t:"Nostalgia dos jogos retrô: por que o passado conforta tanto", g:null, c:"conceitos"},
     {s:"por-que-amamos-o-vilao", t:"Por que a gente ama o vilão? A psicanálise do lado sombrio", g:null, c:"conceitos"},
