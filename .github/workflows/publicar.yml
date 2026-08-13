@@ -1,0 +1,41 @@
+name: Publicar próximo post da fila
+
+# Terça e sexta às 10h de Brasília (13h UTC).
+# O GitHub roda isso sozinho, sem precisar de computador ligado.
+on:
+  schedule:
+    - cron: "0 13 * * 2,5"
+  # Permite disparar na mão pelo site do GitHub (aba Actions > Run workflow),
+  # caso queira adiantar um post.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o site
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Publicar o próximo post
+        id: publicar
+        run: python .github/scripts/publicar.py
+
+      - name: Salvar as alterações
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nada mudou (fila vazia). Encerrando sem commit."
+            exit 0
+          fi
+          git config user.name "Robo Psiquiatra Gamer"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Publica post ${{ steps.publicar.outputs.slug }} (PT + EN)"
+          git push
