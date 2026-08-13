@@ -1,0 +1,85 @@
+{
+  "_leia_me": "Fila de publicacao do Psiquiatra Gamer. O robo publica o PRIMEIRO item com status pendente, um por execucao (ter/sex 10h). Para adicionar um post novo: colocar o HTML pronto em agendados/<slug>.html (PT) e agendados/en/<slug>.html (EN), e acrescentar um bloco aqui no fim da lista com status pendente.",
+  "posts": [
+    {
+      "slug": "culpa-de-jogar-na-vida-adulta",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "A culpa de jogar sendo adulto: será que estou perdendo tempo?",
+        "descricao": "O superego produtivista e a defesa do brincar (Winnicott): por que descansar não é desperdício.",
+        "resumo_feed": "o superego produtivista e a defesa do brincar"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "The guilt of gaming as an adult: am I wasting my time?",
+        "descricao": "The productivist superego and the defense of play (Winnicott): why resting isn't a waste.",
+        "resumo_feed": "the productivist superego and the defense of play"
+      }
+    },
+    {
+      "slug": "imersao-perdida-adulto",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Por que não consigo mais me perder num jogo como quando era criança",
+        "descricao": "A perda da imersão total: a mente dividida do adulto e a capacidade de brincar.",
+        "resumo_feed": "a mente dividida do adulto e a capacidade de brincar"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Why can't I lose myself in a game like I did as a kid?",
+        "descricao": "The loss of total immersion: the adult's divided mind and the capacity to play.",
+        "resumo_feed": "the divided adult mind and the capacity to play"
+      }
+    },
+    {
+      "slug": "biblioteca-gigante-backlog",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Biblioteca cheia, nada pra jogar: o desejo de ter e o tédio de possuir",
+        "descricao": "O desejo é falta: por que ter 300 jogos e sentir que não há o que jogar.",
+        "resumo_feed": "o desejo é falta, 300 jogos e nada pra jogar"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Full library, nothing to play: the desire to own and the boredom of having",
+        "descricao": "Desire is lack: why you can own 300 games and feel there's nothing to play.",
+        "resumo_feed": "desire is lack, 300 games, nothing to play"
+      }
+    },
+    {
+      "slug": "colecionismo-vs-toc",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Colecionismo ou transtorno? Quando juntar jogos vira problema",
+        "descricao": "O ângulo clínico: colecionismo saudável x TOC x transtorno de acumulação, e a linha do sofrimento.",
+        "resumo_feed": "colecionismo saudável, TOC e acumulação"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Collecting or disorder? When hoarding games becomes a problem",
+        "descricao": "The clinical angle: healthy collecting vs. OCD vs. hoarding disorder, and the line of suffering.",
+        "resumo_feed": "healthy collecting vs. OCD vs. hoarding disorder"
+      }
+    }
+  ]
+}
