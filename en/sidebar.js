@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"platina-perfeccionismo", t:"Why do we need to platinum? The psychoanalysis of 100%", g:null, c:"conceitos"},
     {s:"multiplayer-toxico", t:"Toxic multiplayer: why we become someone else online", g:null, c:"cultura"},
     {s:"escolhas-morais-culpa", t:"Moral choices in games: guilt, reparation, and Klein's mind", g:null, c:"conceitos"},
     {s:"terror-por-que-gostamos-de-medo", t:"Why we like to feel afraid in horror games", g:null, c:"conceitos"},
