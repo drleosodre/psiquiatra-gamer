@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"culpa-de-jogar-na-vida-adulta", t:"A culpa de jogar sendo adulto: será que estou perdendo tempo?", g:null, c:"conceitos"},
     {s:"platina-perfeccionismo", t:"Por que a gente precisa platinar? A psicanálise do 100%", g:null, c:"conceitos"},
     {s:"multiplayer-toxico", t:"Multiplayer tóxico: por que a gente vira outra pessoa online", g:null, c:"cultura"},
     {s:"escolhas-morais-culpa", t:"Escolhas morais nos games: culpa, reparação e a mente de Klein", g:null, c:"conceitos"},

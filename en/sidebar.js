@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"culpa-de-jogar-na-vida-adulta", t:"The guilt of gaming as an adult: am I wasting my time?", g:null, c:"conceitos"},
     {s:"platina-perfeccionismo", t:"Why do we need to platinum? The psychoanalysis of 100%", g:null, c:"conceitos"},
     {s:"multiplayer-toxico", t:"Toxic multiplayer: why we become someone else online", g:null, c:"cultura"},
     {s:"escolhas-morais-culpa", t:"Moral choices in games: guilt, reparation, and Klein's mind", g:null, c:"conceitos"},

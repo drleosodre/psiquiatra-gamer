@@ -3,7 +3,7 @@
   "posts": [
     {
       "slug": "culpa-de-jogar-na-vida-adulta",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -19,7 +19,8 @@
         "titulo": "The guilt of gaming as an adult: am I wasting my time?",
         "descricao": "The productivist superego and the defense of play (Winnicott): why resting isn't a waste.",
         "resumo_feed": "the productivist superego and the defense of play"
-      }
+      },
+      "publicado_em": "2026-08-13"
     },
     {
       "slug": "imersao-perdida-adulto",
