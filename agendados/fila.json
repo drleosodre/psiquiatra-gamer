@@ -24,7 +24,7 @@
     },
     {
       "slug": "imersao-perdida-adulto",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -40,7 +40,8 @@
         "titulo": "Why can't I lose myself in a game like I did as a kid?",
         "descricao": "The loss of total immersion: the adult's divided mind and the capacity to play.",
         "resumo_feed": "the divided adult mind and the capacity to play"
-      }
+      },
+      "publicado_em": "2026-08-14"
     },
     {
       "slug": "biblioteca-gigante-backlog",

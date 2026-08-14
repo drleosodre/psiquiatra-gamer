@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"imersao-perdida-adulto", t:"Por que não consigo mais me perder num jogo como quando era criança", g:null, c:"conceitos"},
     {s:"culpa-de-jogar-na-vida-adulta", t:"A culpa de jogar sendo adulto: será que estou perdendo tempo?", g:null, c:"conceitos"},
     {s:"platina-perfeccionismo", t:"Por que a gente precisa platinar? A psicanálise do 100%", g:null, c:"conceitos"},
     {s:"multiplayer-toxico", t:"Multiplayer tóxico: por que a gente vira outra pessoa online", g:null, c:"cultura"},
