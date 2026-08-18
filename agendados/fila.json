@@ -45,7 +45,7 @@
     },
     {
       "slug": "biblioteca-gigante-backlog",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -61,7 +61,8 @@
         "titulo": "Full library, nothing to play: the desire to own and the boredom of having",
         "descricao": "Desire is lack: why you can own 300 games and feel there's nothing to play.",
         "resumo_feed": "desire is lack, 300 games, nothing to play"
-      }
+      },
+      "publicado_em": "2026-08-18"
     },
     {
       "slug": "colecionismo-vs-toc",
