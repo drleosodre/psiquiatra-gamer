@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"colecionismo-vs-toc", t:"Colecionismo ou transtorno? Quando juntar jogos vira problema", g:null, c:"conceitos"},
     {s:"biblioteca-gigante-backlog", t:"Biblioteca cheia, nada pra jogar: o desejo de ter e o tédio de possuir", g:null, c:"conceitos"},
     {s:"imersao-perdida-adulto", t:"Por que não consigo mais me perder num jogo como quando era criança", g:null, c:"conceitos"},
     {s:"culpa-de-jogar-na-vida-adulta", t:"A culpa de jogar sendo adulto: será que estou perdendo tempo?", g:null, c:"conceitos"},

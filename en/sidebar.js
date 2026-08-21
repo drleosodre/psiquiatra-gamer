@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"colecionismo-vs-toc", t:"Collecting or disorder? When hoarding games becomes a problem", g:null, c:"conceitos"},
     {s:"biblioteca-gigante-backlog", t:"Full library, nothing to play: the desire to own and the boredom of having", g:null, c:"conceitos"},
     {s:"imersao-perdida-adulto", t:"Why can't I lose myself in a game like I did as a kid?", g:null, c:"conceitos"},
     {s:"culpa-de-jogar-na-vida-adulta", t:"The guilt of gaming as an adult: am I wasting my time?", g:null, c:"conceitos"},
