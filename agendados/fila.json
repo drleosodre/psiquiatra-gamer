@@ -87,7 +87,7 @@
     },
     {
       "slug": "dark-souls",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -103,7 +103,8 @@
         "titulo": "Dark Souls and the compulsion to repeat: why we insist on dying",
         "descricao": "The bonfire, the cycle of dying and returning, and Freud's compulsion to repeat.",
         "resumo_feed": "the bonfire and the compulsion to repeat"
-      }
+      },
+      "publicado_em": "2026-09-08"
     },
     {
       "slug": "elden-ring",
