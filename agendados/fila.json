@@ -4,6 +4,111 @@
     {
       "slug": "culpa-de-jogar-na-vida-adulta",
       "status": "publicado",
+      "data": "2026-08-13"
+    },
+    {
+      "slug": "imersao-perdida-adulto",
+      "status": "publicado",
+      "data": "2026-08-14"
+    },
+    {
+      "slug": "biblioteca-gigante-backlog",
+      "status": "publicado",
+      "data": "2026-08-18"
+    },
+    {
+      "slug": "colecionismo-vs-toc",
+      "status": "publicado",
+      "data": "2026-08-21"
+    },
+    {
+      "slug": "dark-souls",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Dark Souls e a compulsão à repetição: por que insistir em morrer",
+        "descricao": "A fogueira, o ciclo de morrer e voltar, e a compulsão à repetição em Freud.",
+        "resumo_feed": "a fogueira e a compulsão à repetição"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Dark Souls and the compulsion to repeat: why we insist on dying",
+        "descricao": "The bonfire, the cycle of dying and returning, and Freud's compulsion to repeat.",
+        "resumo_feed": "the bonfire and the compulsion to repeat"
+      }
+    },
+    {
+      "slug": "elden-ring",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Elden Ring: quem decidiu que você quer ser Lorde Prístino?",
+        "descricao": "A graça que guia, a Ordem Áurea e o desejo herdado do Outro.",
+        "resumo_feed": "a Ordem Áurea e o desejo do Outro"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Elden Ring: who decided you want to be Elden Lord?",
+        "descricao": "The grace that guides you, the Golden Order and inherited desire.",
+        "resumo_feed": "the Golden Order and the desire of the Other"
+      }
+    },
+    {
+      "slug": "bloodborne",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Bloodborne e o preço de querer saber demais",
+        "descricao": "O Insight, a pulsão de saber e o conhecimento que adoece.",
+        "resumo_feed": "o Insight e a pulsão de saber"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Bloodborne and the price of wanting to know too much",
+        "descricao": "Insight, the drive for knowledge, and knowledge that makes you ill.",
+        "resumo_feed": "Insight and the drive for knowledge"
+      }
+    },
+    {
+      "slug": "sekiro",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Sekiro e a lei do pai: obedecer, trair e o que sobra depois",
+        "descricao": "O dever, a traição de Coruja e o pai que fica mais forte depois de morto.",
+        "resumo_feed": "o dever, a traição e a lei do pai"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Sekiro and the law of the father: obey, betray, and what remains",
+        "descricao": "Duty, Owl's betrayal, and the father who grows stronger once dead.",
+        "resumo_feed": "duty, betrayal and the law of the father"
+      }
+    }
+  ]
+}
+{
+  "_leia_me": "Fila de publicacao do Psiquiatra Gamer. O robo publica o PRIMEIRO item com status pendente, um por execucao (ter/sex 10h). Para adicionar um post novo: colocar o HTML pronto em agendados/<slug>.html (PT) e agendados/en/<slug>.html (EN), e acrescentar um bloco aqui no fim da lista com status pendente.",
+  "posts": [
+    {
+      "slug": "culpa-de-jogar-na-vida-adulta",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
