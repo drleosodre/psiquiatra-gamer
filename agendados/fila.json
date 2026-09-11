@@ -108,7 +108,7 @@
     },
     {
       "slug": "elden-ring",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -124,7 +124,8 @@
         "titulo": "Elden Ring: who decided you want to be Elden Lord?",
         "descricao": "The grace that guides you, the Golden Order and inherited desire.",
         "resumo_feed": "the Golden Order and the desire of the Other"
-      }
+      },
+      "publicado_em": "2026-09-11"
     },
     {
       "slug": "bloodborne",
