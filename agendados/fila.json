@@ -1,0 +1,291 @@
+{
+  "_leia_me": "Fila de publicacao do Psiquiatra Gamer. O robo publica o PRIMEIRO item com status pendente, um por execucao (ter/sex 10h). Para adicionar um post novo: colocar o HTML pronto em agendados/<slug>.html (PT) e agendados/en/<slug>.html (EN), e acrescentar um bloco aqui no fim da lista com status pendente.",
+  "posts": [
+    {
+      "slug": "culpa-de-jogar-na-vida-adulta",
+      "status": "publicado",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "A culpa de jogar sendo adulto: será que estou perdendo tempo?",
+        "descricao": "O superego produtivista e a defesa do brincar (Winnicott): por que descansar não é desperdício.",
+        "resumo_feed": "o superego produtivista e a defesa do brincar"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "The guilt of gaming as an adult: am I wasting my time?",
+        "descricao": "The productivist superego and the defense of play (Winnicott): why resting isn't a waste.",
+        "resumo_feed": "the productivist superego and the defense of play"
+      },
+      "publicado_em": "2026-08-13"
+    },
+    {
+      "slug": "imersao-perdida-adulto",
+      "status": "publicado",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Por que não consigo mais me perder num jogo como quando era criança",
+        "descricao": "A perda da imersão total: a mente dividida do adulto e a capacidade de brincar.",
+        "resumo_feed": "a mente dividida do adulto e a capacidade de brincar"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Why can't I lose myself in a game like I did as a kid?",
+        "descricao": "The loss of total immersion: the adult's divided mind and the capacity to play.",
+        "resumo_feed": "the divided adult mind and the capacity to play"
+      },
+      "publicado_em": "2026-08-14"
+    },
+    {
+      "slug": "biblioteca-gigante-backlog",
+      "status": "publicado",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Biblioteca cheia, nada pra jogar: o desejo de ter e o tédio de possuir",
+        "descricao": "O desejo é falta: por que ter 300 jogos e sentir que não há o que jogar.",
+        "resumo_feed": "o desejo é falta, 300 jogos e nada pra jogar"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Full library, nothing to play: the desire to own and the boredom of having",
+        "descricao": "Desire is lack: why you can own 300 games and feel there's nothing to play.",
+        "resumo_feed": "desire is lack, 300 games, nothing to play"
+      },
+      "publicado_em": "2026-08-18"
+    },
+    {
+      "slug": "colecionismo-vs-toc",
+      "status": "publicado",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Colecionismo ou transtorno? Quando juntar jogos vira problema",
+        "descricao": "O ângulo clínico: colecionismo saudável x TOC x transtorno de acumulação, e a linha do sofrimento.",
+        "resumo_feed": "colecionismo saudável, TOC e acumulação"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Collecting or disorder? When hoarding games becomes a problem",
+        "descricao": "The clinical angle: healthy collecting vs. OCD vs. hoarding disorder, and the line of suffering.",
+        "resumo_feed": "healthy collecting vs. OCD vs. hoarding disorder"
+      },
+      "publicado_em": "2026-08-21"
+    },
+    {
+      "slug": "dark-souls",
+      "status": "publicado",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Dark Souls e a compulsão à repetição: por que insistir em morrer",
+        "descricao": "A fogueira, o ciclo de morrer e voltar, e a compulsão à repetição em Freud.",
+        "resumo_feed": "a fogueira e a compulsão à repetição"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Dark Souls and the compulsion to repeat: why we insist on dying",
+        "descricao": "The bonfire, the cycle of dying and returning, and Freud's compulsion to repeat.",
+        "resumo_feed": "the bonfire and the compulsion to repeat"
+      },
+      "publicado_em": "2026-09-08"
+    },
+    {
+      "slug": "elden-ring",
+      "status": "publicado",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Elden Ring: quem decidiu que você quer ser Lorde Prístino?",
+        "descricao": "A graça que guia, a Ordem Áurea e o desejo herdado do Outro.",
+        "resumo_feed": "a Ordem Áurea e o desejo do Outro"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Elden Ring: who decided you want to be Elden Lord?",
+        "descricao": "The grace that guides you, the Golden Order and inherited desire.",
+        "resumo_feed": "the Golden Order and the desire of the Other"
+      },
+      "publicado_em": "2026-09-11"
+    },
+    {
+      "slug": "bloodborne",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Bloodborne e o preço de querer saber demais",
+        "descricao": "O Insight, a pulsão de saber e o conhecimento que adoece.",
+        "resumo_feed": "o Insight e a pulsão de saber"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Bloodborne and the price of wanting to know too much",
+        "descricao": "Insight, the drive for knowledge, and knowledge that makes you ill.",
+        "resumo_feed": "Insight and the drive for knowledge"
+      }
+    },
+    {
+      "slug": "sekiro",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Sekiro e a lei do pai: obedecer, trair e o que sobra depois",
+        "descricao": "O dever, a traição de Coruja e o pai que fica mais forte depois de morto.",
+        "resumo_feed": "o dever, a traição e a lei do pai"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Sekiro and the law of the father: obey, betray, and what remains",
+        "descricao": "Duty, Owl's betrayal, and the father who grows stronger once dead.",
+        "resumo_feed": "duty, betrayal and the law of the father"
+      }
+    },
+    {
+      "slug": "celeste",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Celeste: a parte de você que você não quer olhar",
+        "descricao": "Badeline, a cisão em bom e mau e a integração segundo Melanie Klein.",
+        "resumo_feed": "Badeline e a cisão do eu em Klein"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Celeste: the part of yourself you would rather not look at",
+        "descricao": "Badeline, the split into good and bad, and integration according to Melanie Klein.",
+        "resumo_feed": "Badeline and the splitting of the ego in Klein"
+      }
+    },
+    {
+      "slug": "omori",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Omori e o quarto branco: quando lembrar é insuportável",
+        "descricao": "A fantasia como defesa contra a memória, e a melancolia em Freud.",
+        "resumo_feed": "a fantasia como defesa e a melancolia"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Omori and the white room: when remembering is unbearable",
+        "descricao": "Fantasy as a defence against memory, and melancholia in Freud.",
+        "resumo_feed": "fantasy as defence and melancholia"
+      }
+    },
+    {
+      "slug": "undertale",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Undertale: por que matar todo mundo te deixa mal de verdade",
+        "descricao": "A rota genocida, a culpa real e a reparação em Melanie Klein.",
+        "resumo_feed": "a rota genocida e a reparação em Klein"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Undertale: why killing everyone actually makes you feel bad",
+        "descricao": "The genocide route, real guilt, and reparation in Melanie Klein.",
+        "resumo_feed": "the genocide route and reparation in Klein"
+      }
+    },
+    {
+      "slug": "animal-crossing",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Por que Animal Crossing acalma: o jogo como objeto transicional",
+        "descricao": "A ilha que acalma, o objeto transicional e o holding em Winnicott.",
+        "resumo_feed": "o objeto transicional de Winnicott"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Why Animal Crossing calms you down: the game as a transitional object",
+        "descricao": "The island that soothes, the transitional object and holding in Winnicott.",
+        "resumo_feed": "Winnicott's transitional object"
+      }
+    },
+    {
+      "slug": "loot-box-gacha",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "Loot box e gacha: por que a caixa vicia mais que o prêmio",
+        "descricao": "O reforço de razão variável e a pulsão cujo objeto é substituível.",
+        "resumo_feed": "razão variável e a pulsão sem objeto fixo"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "Loot boxes and gacha: why the box hooks you more than the prize",
+        "descricao": "Variable-ratio reinforcement and a drive whose object is replaceable.",
+        "resumo_feed": "variable ratio and a drive with no fixed object"
+      }
+    },
+    {
+      "slug": "cyberpunk-2077",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Cyberpunk 2077: quando o outro mora dentro da sua cabeça",
+        "descricao": "Johnny Silverhand, o duplo de Otto Rank e a pergunta sobre quem sobra.",
+        "resumo_feed": "Johnny Silverhand e o duplo de Rank"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Cyberpunk 2077: when the other lives inside your head",
+        "descricao": "Johnny Silverhand, Otto Rank double, and the question of who is left.",
+        "resumo_feed": "Johnny Silverhand and Rank's double"
+      }
+    }
+  ]
+}
