@@ -129,7 +129,7 @@
     },
     {
       "slug": "marvels-wolverine",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -145,7 +145,8 @@
         "titulo": "Marvel's Wolverine: the score arrived before the game, and so did the disappointment",
         "descricao": "What the reviews say, why 78 became failure, and disappointment before experience.",
         "resumo_feed": "the 78 and disappointment before playing"
-      }
+      },
+      "publicado_em": "2026-09-15"
     },
     {
       "slug": "bloodborne",

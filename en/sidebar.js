@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"marvels-wolverine", t:"Marvel's Wolverine: the score arrived before the game, and so did the disappointment", g:null, c:"analises"},
     {s:"elden-ring", t:"Elden Ring: who decided you want to be Elden Lord?", g:null, c:"analises"},
     {s:"dark-souls", t:"Dark Souls and the compulsion to repeat: why we insist on dying", g:null, c:"analises"},
     {s:"colecionismo-vs-toc", t:"Collecting or disorder? When hoarding games becomes a problem", g:null, c:"conceitos"},

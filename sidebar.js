@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"marvels-wolverine", t:"Marvel's Wolverine: a nota chegou antes do jogo, e a decepção também", g:null, c:"analises"},
     {s:"elden-ring", t:"Elden Ring: quem decidiu que você quer ser Lorde Prístino?", g:null, c:"analises"},
     {s:"dark-souls", t:"Dark Souls e a compulsão à repetição: por que insistir em morrer", g:null, c:"analises"},
     {s:"colecionismo-vs-toc", t:"Colecionismo ou transtorno? Quando juntar jogos vira problema", g:null, c:"conceitos"},
