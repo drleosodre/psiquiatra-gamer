@@ -171,7 +171,7 @@
     },
     {
       "slug": "sekiro",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -187,7 +187,8 @@
         "titulo": "Sekiro and the law of the father: obey, betray, and what remains",
         "descricao": "Duty, Owl's betrayal, and the father who grows stronger once dead.",
         "resumo_feed": "duty, betrayal and the law of the father"
-      }
+      },
+      "publicado_em": "2026-09-22"
     },
     {
       "slug": "celeste",
