@@ -192,7 +192,7 @@
     },
     {
       "slug": "celeste",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -208,7 +208,8 @@
         "titulo": "Celeste: the part of yourself you would rather not look at",
         "descricao": "Badeline, the split into good and bad, and integration according to Melanie Klein.",
         "resumo_feed": "Badeline and the splitting of the ego in Klein"
-      }
+      },
+      "publicado_em": "2026-09-25"
     },
     {
       "slug": "omori",
