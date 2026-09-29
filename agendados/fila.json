@@ -213,7 +213,7 @@
     },
     {
       "slug": "omori",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -229,7 +229,8 @@
         "titulo": "Omori and the white room: when remembering is unbearable",
         "descricao": "Fantasy as a defence against memory, and melancholia in Freud.",
         "resumo_feed": "fantasy as defence and melancholia"
-      }
+      },
+      "publicado_em": "2026-09-29"
     },
     {
       "slug": "undertale",

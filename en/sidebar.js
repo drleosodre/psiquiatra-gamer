@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"omori", t:"Omori and the white room: when remembering is unbearable", g:null, c:"analises"},
     {s:"celeste", t:"Celeste: the part of yourself you would rather not look at", g:null, c:"analises"},
     {s:"sekiro", t:"Sekiro and the law of the father: obey, betray, and what remains", g:null, c:"analises"},
     {s:"bloodborne", t:"Bloodborne and the price of wanting to know too much", g:null, c:"analises"},
