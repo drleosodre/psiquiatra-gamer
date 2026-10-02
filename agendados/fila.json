@@ -234,7 +234,7 @@
     },
     {
       "slug": "undertale",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -250,7 +250,8 @@
         "titulo": "Undertale: why killing everyone actually makes you feel bad",
         "descricao": "The genocide route, real guilt, and reparation in Melanie Klein.",
         "resumo_feed": "the genocide route and reparation in Klein"
-      }
+      },
+      "publicado_em": "2026-10-02"
     },
     {
       "slug": "animal-crossing",

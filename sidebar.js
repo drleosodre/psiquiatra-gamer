@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"undertale", t:"Undertale: por que matar todo mundo te deixa mal de verdade", g:null, c:"analises"},
     {s:"omori", t:"Omori e o quarto branco: quando lembrar é insuportável", g:null, c:"analises"},
     {s:"celeste", t:"Celeste: a parte de você que você não quer olhar", g:null, c:"analises"},
     {s:"sekiro", t:"Sekiro e a lei do pai: obedecer, trair e o que sobra depois", g:null, c:"analises"},
