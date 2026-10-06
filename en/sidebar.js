@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"animal-crossing", t:"Why Animal Crossing calms you down: the game as a transitional object", g:null, c:"analises"},
     {s:"undertale", t:"Undertale: why killing everyone actually makes you feel bad", g:null, c:"analises"},
     {s:"omori", t:"Omori and the white room: when remembering is unbearable", g:null, c:"analises"},
     {s:"celeste", t:"Celeste: the part of yourself you would rather not look at", g:null, c:"analises"},
