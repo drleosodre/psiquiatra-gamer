@@ -276,7 +276,7 @@
     },
     {
       "slug": "loot-box-gacha",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -292,7 +292,8 @@
         "titulo": "Loot boxes and gacha: why the box hooks you more than the prize",
         "descricao": "Variable-ratio reinforcement and a drive whose object is replaceable.",
         "resumo_feed": "variable ratio and a drive with no fixed object"
-      }
+      },
+      "publicado_em": "2026-10-09"
     },
     {
       "slug": "cyberpunk-2077",
