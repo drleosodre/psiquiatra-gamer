@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"cyberpunk-2077", t:"Cyberpunk 2077: when the other lives inside your head", g:null, c:"analises"},
     {s:"loot-box-gacha", t:"Loot boxes and gacha: why the box hooks you more than the prize", g:null, c:"cultura"},
     {s:"animal-crossing", t:"Why Animal Crossing calms you down: the game as a transitional object", g:null, c:"analises"},
     {s:"undertale", t:"Undertale: why killing everyone actually makes you feel bad", g:null, c:"analises"},

@@ -297,7 +297,7 @@
     },
     {
       "slug": "cyberpunk-2077",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -313,7 +313,8 @@
         "titulo": "Cyberpunk 2077: when the other lives inside your head",
         "descricao": "Johnny Silverhand, Otto Rank double, and the question of who is left.",
         "resumo_feed": "Johnny Silverhand and Rank's double"
-      }
+      },
+      "publicado_em": "2026-10-13"
     }
   ]
 }

@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"cyberpunk-2077", t:"Cyberpunk 2077: quando o outro mora dentro da sua cabeça", g:null, c:"analises"},
     {s:"loot-box-gacha", t:"Loot box e gacha: por que a caixa vicia mais que o prêmio", g:null, c:"cultura"},
     {s:"animal-crossing", t:"Por que Animal Crossing acalma: o jogo como objeto transicional", g:null, c:"analises"},
     {s:"undertale", t:"Undertale: por que matar todo mundo te deixa mal de verdade", g:null, c:"analises"},
