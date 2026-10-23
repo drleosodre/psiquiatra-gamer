@@ -315,6 +315,146 @@
         "resumo_feed": "Johnny Silverhand and Rank's double"
       },
       "publicado_em": "2026-10-13"
+    },
+    {
+      "slug": "gta-6-jason-duval",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Jason Duval no divã: o crime como pedido de socorro em GTA 6",
+        "descricao": "A fala do trailer de lançamento lida pela tendência antissocial de Winnicott.",
+        "resumo_feed": "Jason e o crime como pedido de socorro"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Jason Duval on the couch: crime as a call for help in GTA 6",
+        "descricao": "The launch trailer line read through Winnicott's antisocial tendency.",
+        "resumo_feed": "Jason and crime as a call for help"
+      }
+    },
+    {
+      "slug": "gta-6-lucia-caminos",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "GTA 6: Lucia Caminos entre a luta do pai e o sonho da mãe",
+        "descricao": "A luta herdada do pai, a boa vida sonhada pela mãe e o ideal do eu em Freud.",
+        "resumo_feed": "a luta do pai, o sonho da mãe e o supereu"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "GTA 6: Lucia Caminos between her father's fight and her mother's dream",
+        "descricao": "The fight inherited from her father, her mother's dream and Freud's ego ideal.",
+        "resumo_feed": "father's fight, mother's dream, superego"
+      }
+    },
+    {
+      "slug": "gta-6-jason-e-lucia",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Jason e Lucia: em GTA 6, o romance é opcional, a cumplicidade não",
+        "descricao": "Bonnie e Clyde, a cumplicidade em Totem e tabu e o jogador como terceiro do casal.",
+        "resumo_feed": "o crime partilhado e o terceiro do casal"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Jason and Lucia: in GTA 6, romance is optional, complicity is not",
+        "descricao": "Bonnie and Clyde, complicity in Totem and Taboo, and the player as the couple's third.",
+        "resumo_feed": "a shared crime and the couple's third"
+      }
+    },
+    {
+      "slug": "gta-6-cal-hampton",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Cal Hampton e por que a gente acredita em conspiração",
+        "descricao": "A conspiração como defesa contra o desamparo: Cal Hampton, Freud e o caso Schreber.",
+        "resumo_feed": "a conspiração como defesa contra o desamparo"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Cal Hampton and why we believe in conspiracies",
+        "descricao": "Conspiracy as a defense against helplessness: Cal Hampton, Freud and the Schreber case.",
+        "resumo_feed": "conspiracy as a defense against helplessness"
+      }
+    },
+    {
+      "slug": "gta-6-florida-man",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "Florida Man: por que a piada virou o mapa de GTA 6",
+        "descricao": "O Florida Man, o chiste hostil de Freud e quem paga a risada quando o mapa vira piada.",
+        "resumo_feed": "a piada hostil e quem paga a risada"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "Florida Man: why the joke became the map of GTA 6",
+        "descricao": "Florida Man, Freud's hostile joke, and who pays for the laugh when the map becomes a joke.",
+        "resumo_feed": "the hostile joke and who pays for the laugh"
+      }
+    },
+    {
+      "slug": "gta-6-vice-city-vaidade",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Vice City, cidade da vaidade: ser visto para existir em GTA 6",
+        "descricao": "A vaidade de Vice City, o primeiro espelho em Winnicott e o feed como previsão do tempo.",
+        "resumo_feed": "ser visto para existir, do rosto ao feed"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Vice City, city of vanity: being seen to exist in GTA 6",
+        "descricao": "Vanity in Vice City, Winnicott's first mirror and the feed as a weather report.",
+        "resumo_feed": "being seen to exist, from face to feed"
+      }
+    },
+    {
+      "slug": "gta-6-espera-fort-da",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "Fort-da: por que esperar o GTA 6 virou um jogo",
+        "descricao": "O carretel de Freud e a espera pelo GTA 6 como trabalho de domínio da ausência.",
+        "resumo_feed": "o carretel de Freud e a espera pelo GTA 6"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "Fort/da: why waiting for GTA 6 became a game",
+        "descricao": "Freud's wooden reel and the wait for GTA 6 as the work of mastering an absence.",
+        "resumo_feed": "Freud's reel and the wait for GTA 6"
+      }
     }
   ]
 }
