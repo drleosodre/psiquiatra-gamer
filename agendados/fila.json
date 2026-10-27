@@ -339,7 +339,7 @@
     },
     {
       "slug": "gta-6-lucia-caminos",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -355,7 +355,8 @@
         "titulo": "GTA 6: Lucia Caminos between her father's fight and her mother's dream",
         "descricao": "The fight inherited from her father, her mother's dream and Freud's ego ideal.",
         "resumo_feed": "father's fight, mother's dream, superego"
-      }
+      },
+      "publicado_em": "2026-10-27"
     },
     {
       "slug": "gta-6-jason-e-lucia",
