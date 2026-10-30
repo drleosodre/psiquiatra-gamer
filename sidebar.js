@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"gta-6-jason-e-lucia", t:"Jason e Lucia: em GTA 6, o romance é opcional, a cumplicidade não", g:null, c:"analises"},
     {s:"gta-6-lucia-caminos", t:"GTA 6: Lucia Caminos entre a luta do pai e o sonho da mãe", g:null, c:"analises"},
     {s:"gta-6-jason-duval", t:"Jason Duval no divã: o crime como pedido de socorro em GTA 6", g:null, c:"analises"},
     {s:"cyberpunk-2077", t:"Cyberpunk 2077: quando o outro mora dentro da sua cabeça", g:null, c:"analises"},

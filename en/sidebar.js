@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"gta-6-jason-e-lucia", t:"Jason and Lucia: in GTA 6, romance is optional, complicity is not", g:null, c:"analises"},
     {s:"gta-6-lucia-caminos", t:"GTA 6: Lucia Caminos between her father's fight and her mother's dream", g:null, c:"analises"},
     {s:"gta-6-jason-duval", t:"Jason Duval on the couch: crime as a call for help in GTA 6", g:null, c:"analises"},
     {s:"cyberpunk-2077", t:"Cyberpunk 2077: when the other lives inside your head", g:null, c:"analises"},

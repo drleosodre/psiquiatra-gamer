@@ -360,7 +360,7 @@
     },
     {
       "slug": "gta-6-jason-e-lucia",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -376,7 +376,8 @@
         "titulo": "Jason and Lucia: in GTA 6, romance is optional, complicity is not",
         "descricao": "Bonnie and Clyde, complicity in Totem and Taboo, and the player as the couple's third.",
         "resumo_feed": "a shared crime and the couple's third"
-      }
+      },
+      "publicado_em": "2026-10-30"
     },
     {
       "slug": "gta-6-cal-hampton",
