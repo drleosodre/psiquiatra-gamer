@@ -381,7 +381,7 @@
     },
     {
       "slug": "gta-6-cal-hampton",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -397,7 +397,8 @@
         "titulo": "Cal Hampton and why we believe in conspiracies",
         "descricao": "Conspiracy as a defense against helplessness: Cal Hampton, Freud and the Schreber case.",
         "resumo_feed": "conspiracy as a defense against helplessness"
-      }
+      },
+      "publicado_em": "2026-11-03"
     },
     {
       "slug": "gta-6-florida-man",
