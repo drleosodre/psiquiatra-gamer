@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"gta-6-florida-man", t:"Florida Man: why the joke became the map of GTA 6", g:null, c:"cultura"},
     {s:"gta-6-cal-hampton", t:"Cal Hampton and why we believe in conspiracies", g:null, c:"conceitos"},
     {s:"gta-6-jason-e-lucia", t:"Jason and Lucia: in GTA 6, romance is optional, complicity is not", g:null, c:"analises"},
     {s:"gta-6-lucia-caminos", t:"GTA 6: Lucia Caminos between her father's fight and her mother's dream", g:null, c:"analises"},

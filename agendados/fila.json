@@ -402,7 +402,7 @@
     },
     {
       "slug": "gta-6-florida-man",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -418,7 +418,8 @@
         "titulo": "Florida Man: why the joke became the map of GTA 6",
         "descricao": "Florida Man, Freud's hostile joke, and who pays for the laugh when the map becomes a joke.",
         "resumo_feed": "the hostile joke and who pays for the laugh"
-      }
+      },
+      "publicado_em": "2026-11-06"
     },
     {
       "slug": "gta-6-vice-city-vaidade",
