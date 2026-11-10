@@ -423,7 +423,7 @@
     },
     {
       "slug": "gta-6-vice-city-vaidade",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -439,7 +439,8 @@
         "titulo": "Vice City, city of vanity: being seen to exist in GTA 6",
         "descricao": "Vanity in Vice City, Winnicott's first mirror and the feed as a weather report.",
         "resumo_feed": "being seen to exist, from face to feed"
-      }
+      },
+      "publicado_em": "2026-11-10"
     },
     {
       "slug": "gta-6-espera-fort-da",
