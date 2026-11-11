@@ -443,6 +443,46 @@
       "publicado_em": "2026-11-10"
     },
     {
+      "slug": "gta-6-realismo-cheiro",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "O parque natural da fantasia: por que GTA 6 copia até o cheiro",
+        "descricao": "Por que uma fantasia de crime copia a realidade até no cheiro? Freud e a reserva.",
+        "resumo_feed": "a fantasia como reserva natural"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "The nature reserve of phantasy: why GTA 6 copies even the smell",
+        "descricao": "Why does a crime fantasy copy reality down to the smell? Freud and the reserve.",
+        "resumo_feed": "phantasy as a nature reserve"
+      }
+    },
+    {
+      "slug": "gta-6-raul-bautista",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Raul Bautista no divã: o assaltante que sempre aumenta a aposta",
+        "descricao": "O golpe que precisa ser sempre maior, lido pelo Dostoiévski de Freud na roleta.",
+        "resumo_feed": "Raul Bautista e o golpe que sempre cresce"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Raul Bautista on the couch: the robber who always raises the stakes",
+        "descricao": "The score that always has to be bigger, read through Freud's Dostoevsky at roulette.",
+        "resumo_feed": "Raul Bautista and the ever bigger score"
+      }
+    },
+    {
       "slug": "gta-6-espera-fort-da",
       "status": "pendente",
       "pt": {
@@ -460,6 +500,146 @@
         "titulo": "Fort/da: why waiting for GTA 6 became a game",
         "descricao": "Freud's wooden reel and the wait for GTA 6 as the work of mastering an absence.",
         "resumo_feed": "Freud's reel and the wait for GTA 6"
+      }
+    },
+    {
+      "slug": "gta-6-miami-vice-city",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "Miami vestiu Vice City: humor ou rendição?",
+        "descricao": "Miami veste a sátira de GTA 6. O humor em Freud, o fantasma de Anna Freud e quem paga a piada.",
+        "resumo_feed": "quando o alvo da piada veste a piada"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "Miami dressed up as Vice City: humor or surrender?",
+        "descricao": "Miami wears GTA 6's satire. Freud on humor, Anna Freud's ghost, and who pays for the joke.",
+        "resumo_feed": "when the butt of the joke wears the joke"
+      }
+    },
+    {
+      "slug": "gta-6-edicao-ultimate",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "R$ 549,90: o que a gente compra no \"a mais\" do GTA 6",
+        "descricao": "Freud e a Ultimate Edition: o “a mais” compra a promessa de não ficar sem nada.",
+        "resumo_feed": "o que se compra no “a mais” do GTA 6"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "The $100 edition: what we buy in the \"extra\" of GTA 6",
+        "descricao": "Freud and the Ultimate Edition: the extra buys the promise of never going without.",
+        "resumo_feed": "what we buy in GTA 6's \"extra\""
+      }
+    },
+    {
+      "slug": "gta-6-violencia",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "GTA 6 vai deixar alguém violento? O que Freud diria do pânico de sempre",
+        "descricao": "O que a pesquisa diz sobre games e violência, e por que o pânico sempre procura um culpado.",
+        "resumo_feed": "a ilusão do jogo e o culpado de sempre"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Will GTA 6 make anyone violent? What Freud would say about the usual panic",
+        "descricao": "What research says about games and violence, and why the panic always looks for a culprit.",
+        "resumo_feed": "the illusion of play and the usual culprit"
+      }
+    },
+    {
+      "slug": "gta-6-ciume",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "Jogar GTA 6 é trair? O ciúme do videogame",
+        "descricao": "O debate viral sobre GTA 6 e traição, lido pelo ciúme normal de Freud: quem é o rival?",
+        "resumo_feed": "o ciúme do videogame e o rival sem rosto"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "Is playing GTA 6 cheating? Jealousy of the video game",
+        "descricao": "The viral GTA 6 cheating debate, read through Freud's normal jealousy: who is the rival?",
+        "resumo_feed": "video game jealousy and the faceless rival"
+      }
+    },
+    {
+      "slug": "gta-6-gripe-feriado",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "A \"gripe do GTA\": o feriado que ninguém decretou",
+        "descricao": "A gripe do GTA 6, as festas de Freud e o que sobra da transgressão quando a firma dá folga.",
+        "resumo_feed": "a gripe do GTA e o carnaval particular"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "The \"GTA flu\": the holiday nobody declared",
+        "descricao": "The GTA 6 flu, Freud's festivals, and what is left of transgression when the boss signs off.",
+        "resumo_feed": "the GTA flu and a private carnival"
+      }
+    },
+    {
+      "slug": "gta-6-spoiler",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "Spoiler: por que tem gente que corre atrás do final de GTA 6",
+        "descricao": "Freud e a angústia como sinal: quem caça o spoiler de GTA 6 e quem protege a surpresa.",
+        "resumo_feed": "quem caça o final e quem protege a surpresa"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "Spoilers: why some people chase the ending of GTA 6",
+        "descricao": "Freud's signal anxiety: who chases GTA 6 spoilers and who protects the surprise.",
+        "resumo_feed": "chasing the ending vs. protecting surprise"
+      }
+    },
+    {
+      "slug": "gta-6-dia-seguinte",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "conceitos",
+        "chip_card": "Conceitos",
+        "chip_feed": "Conceito",
+        "titulo": "O dia seguinte: o que sobra quando a espera pelo GTA 6 acaba",
+        "descricao": "Freud e a transitoriedade: o pequeno luto pela espera do GTA 6 e o jogo que chegou.",
+        "resumo_feed": "o luto pela espera e o jogo que chegou"
+      },
+      "en": {
+        "chip_classe": "conceitos",
+        "chip_card": "Concept",
+        "chip_feed": "Concept",
+        "titulo": "The day after: what's left when the wait for GTA 6 is over",
+        "descricao": "Freud on transience: the small mourning for the GTA 6 wait and the game that arrived.",
+        "resumo_feed": "mourning the wait, enjoying the game"
       }
     }
   ]
