@@ -444,7 +444,7 @@
     },
     {
       "slug": "gta-6-realismo-cheiro",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -460,7 +460,8 @@
         "titulo": "The nature reserve of phantasy: why GTA 6 copies even the smell",
         "descricao": "Why does a crime fantasy copy reality down to the smell? Freud and the reserve.",
         "resumo_feed": "phantasy as a nature reserve"
-      }
+      },
+      "publicado_em": "2026-11-11"
     },
     {
       "slug": "gta-6-raul-bautista",
