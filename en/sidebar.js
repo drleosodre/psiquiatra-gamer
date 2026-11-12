@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"gta-6-raul-bautista", t:"Raul Bautista on the couch: the robber who always raises the stakes", g:null, c:"analises"},
     {s:"gta-6-realismo-cheiro", t:"The nature reserve of phantasy: why GTA 6 copies even the smell", g:null, c:"conceitos"},
     {s:"gta-6-vice-city-vaidade", t:"Vice City, city of vanity: being seen to exist in GTA 6", g:null, c:"analises"},
     {s:"gta-6-florida-man", t:"Florida Man: why the joke became the map of GTA 6", g:null, c:"cultura"},

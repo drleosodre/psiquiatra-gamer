@@ -465,7 +465,7 @@
     },
     {
       "slug": "gta-6-raul-bautista",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -481,7 +481,8 @@
         "titulo": "Raul Bautista on the couch: the robber who always raises the stakes",
         "descricao": "The score that always has to be bigger, read through Freud's Dostoevsky at roulette.",
         "resumo_feed": "Raul Bautista and the ever bigger score"
-      }
+      },
+      "publicado_em": "2026-11-12"
     },
     {
       "slug": "gta-6-espera-fort-da",
