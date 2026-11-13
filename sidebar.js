@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"gta-6-espera-fort-da", t:"Fort-da: por que esperar o GTA 6 virou um jogo", g:null, c:"cultura"},
     {s:"gta-6-raul-bautista", t:"Raul Bautista no divã: o assaltante que sempre aumenta a aposta", g:null, c:"analises"},
     {s:"gta-6-realismo-cheiro", t:"O parque natural da fantasia: por que GTA 6 copia até o cheiro", g:null, c:"conceitos"},
     {s:"gta-6-vice-city-vaidade", t:"Vice City, cidade da vaidade: ser visto para existir em GTA 6", g:null, c:"analises"},

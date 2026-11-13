@@ -486,7 +486,7 @@
     },
     {
       "slug": "gta-6-espera-fort-da",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -502,7 +502,8 @@
         "titulo": "Fort/da: why waiting for GTA 6 became a game",
         "descricao": "Freud's wooden reel and the wait for GTA 6 as the work of mastering an absence.",
         "resumo_feed": "Freud's reel and the wait for GTA 6"
-      }
+      },
+      "publicado_em": "2026-11-13"
     },
     {
       "slug": "gta-6-miami-vice-city",
