@@ -507,7 +507,7 @@
     },
     {
       "slug": "gta-6-miami-vice-city",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -523,7 +523,8 @@
         "titulo": "Miami dressed up as Vice City: humor or surrender?",
         "descricao": "Miami wears GTA 6's satire. Freud on humor, Anna Freud's ghost, and who pays for the joke.",
         "resumo_feed": "when the butt of the joke wears the joke"
-      }
+      },
+      "publicado_em": "2026-11-14"
     },
     {
       "slug": "gta-6-edicao-ultimate",
