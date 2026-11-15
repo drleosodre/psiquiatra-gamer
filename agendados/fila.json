@@ -528,7 +528,7 @@
     },
     {
       "slug": "gta-6-edicao-ultimate",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -544,7 +544,8 @@
         "titulo": "The $100 edition: what we buy in the \"extra\" of GTA 6",
         "descricao": "Freud and the Ultimate Edition: the extra buys the promise of never going without.",
         "resumo_feed": "what we buy in GTA 6's \"extra\""
-      }
+      },
+      "publicado_em": "2026-11-15"
     },
     {
       "slug": "gta-6-violencia",

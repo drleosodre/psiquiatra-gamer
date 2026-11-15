@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"gta-6-edicao-ultimate", t:"The $100 edition: what we buy in the "extra" of GTA 6", g:null, c:"cultura"},
     {s:"gta-6-miami-vice-city", t:"Miami dressed up as Vice City: humor or surrender?", g:null, c:"cultura"},
     {s:"gta-6-espera-fort-da", t:"Fort/da: why waiting for GTA 6 became a game", g:null, c:"cultura"},
     {s:"gta-6-raul-bautista", t:"Raul Bautista on the couch: the robber who always raises the stakes", g:null, c:"analises"},
