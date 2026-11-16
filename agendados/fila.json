@@ -549,7 +549,7 @@
     },
     {
       "slug": "gta-6-violencia",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -565,7 +565,8 @@
         "titulo": "Will GTA 6 make anyone violent? What Freud would say about the usual panic",
         "descricao": "What research says about games and violence, and why the panic always looks for a culprit.",
         "resumo_feed": "the illusion of play and the usual culprit"
-      }
+      },
+      "publicado_em": "2026-11-16"
     },
     {
       "slug": "gta-6-ciume",
