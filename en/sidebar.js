@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"gta-6-ciume", t:"Is playing GTA 6 cheating? Jealousy of the video game", g:null, c:"cultura"},
     {s:"gta-6-violencia", t:"Will GTA 6 make anyone violent? What Freud would say about the usual panic", g:null, c:"conceitos"},
     {s:"gta-6-edicao-ultimate", t:"The $100 edition: what we buy in the "extra" of GTA 6", g:null, c:"cultura"},
     {s:"gta-6-miami-vice-city", t:"Miami dressed up as Vice City: humor or surrender?", g:null, c:"cultura"},

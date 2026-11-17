@@ -570,7 +570,7 @@
     },
     {
       "slug": "gta-6-ciume",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -586,7 +586,8 @@
         "titulo": "Is playing GTA 6 cheating? Jealousy of the video game",
         "descricao": "The viral GTA 6 cheating debate, read through Freud's normal jealousy: who is the rival?",
         "resumo_feed": "video game jealousy and the faceless rival"
-      }
+      },
+      "publicado_em": "2026-11-17"
     },
     {
       "slug": "gta-6-gripe-feriado",
