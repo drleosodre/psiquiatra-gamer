@@ -591,7 +591,7 @@
     },
     {
       "slug": "gta-6-gripe-feriado",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -607,7 +607,8 @@
         "titulo": "The \"GTA flu\": the holiday nobody declared",
         "descricao": "The GTA 6 flu, Freud's festivals, and what is left of transgression when the boss signs off.",
         "resumo_feed": "the GTA flu and a private carnival"
-      }
+      },
+      "publicado_em": "2026-11-18"
     },
     {
       "slug": "gta-6-spoiler",

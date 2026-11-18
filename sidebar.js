@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"gta-6-gripe-feriado", t:"A "gripe do GTA": o feriado que ninguém decretou", g:null, c:"cultura"},
     {s:"gta-6-ciume", t:"Jogar GTA 6 é trair? O ciúme do videogame", g:null, c:"cultura"},
     {s:"gta-6-violencia", t:"GTA 6 vai deixar alguém violento? O que Freud diria do pânico de sempre", g:null, c:"conceitos"},
     {s:"gta-6-edicao-ultimate", t:"R$ 549,90: o que a gente compra no "a mais" do GTA 6", g:null, c:"cultura"},
