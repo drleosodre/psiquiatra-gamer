@@ -612,7 +612,7 @@
     },
     {
       "slug": "gta-6-spoiler",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -628,7 +628,8 @@
         "titulo": "Spoilers: why some people chase the ending of GTA 6",
         "descricao": "Freud's signal anxiety: who chases GTA 6 spoilers and who protects the surprise.",
         "resumo_feed": "chasing the ending vs. protecting surprise"
-      }
+      },
+      "publicado_em": "2026-11-19"
     },
     {
       "slug": "gta-6-dia-seguinte",
