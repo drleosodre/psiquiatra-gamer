@@ -5,9 +5,11 @@ name: Publicar próximo post da fila
 on:
   schedule:
     - cron: "0 13 * * 2,5"
-    # Contagem regressiva do GTA 6: um post por dia em 12, 14, 15, 16, 18 e 19/11 (13 e 17 ja sao sexta e terca).
-    # Pode apagar a linha abaixo depois de 19/11/2026.
-    - cron: "0 13 12,14,15,16,18,19 11 *"
+    # Serie The Game Awards 2026: quartas extras em 25/11 e 02/12/2026.
+    # O passo "Conferir data extra" ignora estas duas linhas em qualquer outro ano.
+    # Pode apagar as duas linhas abaixo depois de 02/12/2026.
+    - cron: "0 13 25 11 *"
+    - cron: "0 13 2 12 *"
   # Permite disparar na mão pelo site do GitHub (aba Actions > Run workflow),
   # caso queira adiantar um post.
   workflow_dispatch:
@@ -27,8 +29,17 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Conferir data extra
+        id: guarda
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" != "0 13 * * 2,5" ] && [ "$(date -u +%Y)" != "2026" ]; then
+            echo "pular=sim" >> "$GITHUB_OUTPUT"
+            echo "Data extra valia so para 2026. Nada a publicar hoje."
+          fi
+
       - name: Publicar o próximo post
         id: publicar
+        if: steps.guarda.outputs.pular != 'sim'
         run: python .github/scripts/publicar.py
 
       - name: Salvar as alterações
