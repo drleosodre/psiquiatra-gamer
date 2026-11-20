@@ -633,7 +633,7 @@
     },
     {
       "slug": "gta-6-dia-seguinte",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "conceitos",
         "chip_card": "Conceitos",
@@ -649,7 +649,8 @@
         "titulo": "The day after: what's left when the wait for GTA 6 is over",
         "descricao": "Freud on transience: the small mourning for the GTA 6 wait and the game that arrived.",
         "resumo_feed": "mourning the wait, enjoying the game"
-      }
+      },
+      "publicado_em": "2026-11-20"
     },
     {
       "slug": "tga-2026-polemica",
