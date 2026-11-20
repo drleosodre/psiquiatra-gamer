@@ -650,6 +650,146 @@
         "descricao": "Freud on transience: the small mourning for the GTA 6 wait and the game that arrived.",
         "resumo_feed": "mourning the wait, enjoying the game"
       }
+    },
+    {
+      "slug": "tga-2026-polemica",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "GTA 6, Zelda e a Sony de fora: por que o The Game Awards virou guerra de torcida",
+        "descricao": "GTA 6 antes de sair, Zelda remake, Sony fora: Freud e a fúria com os indicados do TGA.",
+        "resumo_feed": "a briga dos indicados e as pequenas diferenças"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "GTA 6, Zelda and no Sony: why The Game Awards turned into a fan war",
+        "descricao": "GTA 6 before release, a Zelda remake, no Sony: Freud and the fury over the TGA nominees.",
+        "resumo_feed": "the nominee fight and small differences"
+      }
+    },
+    {
+      "slug": "tga-2026-ocarina-of-time",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Ocarina of Time: o remake não compete com o jogo, compete com a lembrança",
+        "descricao": "O remake de Ocarina of Time e as lembranças encobridoras de Freud no Jogo do Ano do TGA 2026.",
+        "resumo_feed": "o remake contra a lembrança do jogo de 1998"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Ocarina of Time: the remake isn't up against the game, it's up against the memory",
+        "descricao": "The Ocarina of Time remake and Freud's screen memories in TGA 2026's Game of the Year race.",
+        "resumo_feed": "the remake against the memory of the 1998 game"
+      }
+    },
+    {
+      "slug": "tga-2026-resident-evil-requiem",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Resident Evil Requiem e a heroína que tem medo",
+        "descricao": "Leon, Grace e Sua Majestade o Eu: Freud e por que a ficção nos deixa ter medo sem vergonha.",
+        "resumo_feed": "sua majestade o eu e o direito de ter medo"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Resident Evil Requiem and the heroine who is afraid",
+        "descricao": "Leon, Grace and His Majesty the Ego: Freud on why fiction lets us be afraid without shame.",
+        "resumo_feed": "his majesty the ego and the right to be afraid"
+      }
+    },
+    {
+      "slug": "tga-2026-007-first-light",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "007 First Light: o que é preciso virar para merecer um número",
+        "descricao": "A origem de Bond, indicada a Jogo do Ano, lida com o falso self de Winnicott.",
+        "resumo_feed": "a origem de bond e o falso self do espião"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "007 First Light: what you have to become to earn a number",
+        "descricao": "Bond's origin story, a Game of the Year nominee, read through Winnicott's false self.",
+        "resumo_feed": "bond's origin and the spy's false self"
+      }
+    },
+    {
+      "slug": "tga-2026-control-resonant",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Control Resonant: o medo que ninguém recebeu volta sem nome",
+        "descricao": "Bion e Control Resonant: o pavor sem nome que nasce quando ninguém recebe o que sentimos.",
+        "resumo_feed": "o pavor sem nome e o bureau que só arquiva"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Control Resonant: the fear no one received comes back nameless",
+        "descricao": "Bion and Control Resonant: the nameless dread born when no one receives what we feel.",
+        "resumo_feed": "nameless dread and a bureau that only files"
+      }
+    },
+    {
+      "slug": "tga-2026-phantom-blade-zero",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "analises",
+        "chip_card": "Análises",
+        "chip_feed": "Análise",
+        "titulo": "Phantom Blade Zero: o herói que joga com 66 dias de vida",
+        "descricao": "Freud e a morte em que ninguém acredita: o prazo de Soul e as vidas de sobra do jogador.",
+        "resumo_feed": "o prazo de morte e a imortalidade do inconsciente"
+      },
+      "en": {
+        "chip_classe": "analises",
+        "chip_card": "Analyses",
+        "chip_feed": "Analysis",
+        "titulo": "Phantom Blade Zero: the hero who plays with 66 days to live",
+        "descricao": "Freud and the death no one believes in: Soul's deadline and the player's spare lives.",
+        "resumo_feed": "the death deadline and the immortality of the unconscious"
+      }
+    },
+    {
+      "slug": "tga-2026-gta-6",
+      "status": "pendente",
+      "pt": {
+        "chip_classe": "cultura",
+        "chip_card": "Cultura Gamer",
+        "chip_feed": "Cultura",
+        "titulo": "GTA 6, o favorito: por que é tão fácil torcer contra o gigante",
+        "descricao": "Oito indicações e nota 99: Freud e os que fracassam no triunfo leem a torcida contra o GTA 6.",
+        "resumo_feed": "o favorito absoluto e a torcida contra o gigante"
+      },
+      "en": {
+        "chip_classe": "cultura",
+        "chip_card": "Gamer Culture",
+        "chip_feed": "Culture",
+        "titulo": "GTA 6, the favorite: why it's so easy to root against the giant",
+        "descricao": "Eight nominations and a 99: Freud's \"wrecked by success\" reads the backlash against GTA 6.",
+        "resumo_feed": "the runaway favorite and rooting against the giant"
+      }
     }
   ]
 }
