@@ -654,7 +654,7 @@
     },
     {
       "slug": "tga-2026-polemica",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "cultura",
         "chip_card": "Cultura Gamer",
@@ -670,7 +670,8 @@
         "titulo": "GTA 6, Zelda and no Sony: why The Game Awards turned into a fan war",
         "descricao": "GTA 6 before release, a Zelda remake, no Sony: Freud and the fury over the TGA nominees.",
         "resumo_feed": "the nominee fight and small differences"
-      }
+      },
+      "publicado_em": "2026-11-24"
     },
     {
       "slug": "tga-2026-ocarina-of-time",

@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"tga-2026-polemica", t:"GTA 6, Zelda e a Sony de fora: por que o The Game Awards virou guerra de torcida", g:null, c:"cultura"},
     {s:"gta-6-dia-seguinte", t:"O dia seguinte: o que sobra quando a espera pelo GTA 6 acaba", g:null, c:"conceitos"},
     {s:"gta-6-spoiler", t:"Spoiler: por que tem gente que corre atrás do final de GTA 6", g:null, c:"conceitos"},
     {s:"gta-6-gripe-feriado", t:"A "gripe do GTA": o feriado que ninguém decretou", g:null, c:"cultura"},
