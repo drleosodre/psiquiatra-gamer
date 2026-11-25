@@ -675,7 +675,7 @@
     },
     {
       "slug": "tga-2026-ocarina-of-time",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -691,7 +691,8 @@
         "titulo": "Ocarina of Time: the remake isn't up against the game, it's up against the memory",
         "descricao": "The Ocarina of Time remake and Freud's screen memories in TGA 2026's Game of the Year race.",
         "resumo_feed": "the remake against the memory of the 1998 game"
-      }
+      },
+      "publicado_em": "2026-11-25"
     },
     {
       "slug": "tga-2026-resident-evil-requiem",
