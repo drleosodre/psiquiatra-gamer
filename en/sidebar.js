@@ -2,6 +2,7 @@
    When publishing a new post, add an item to the top of the POSTS array below. */
 (function(){
   var POSTS = [
+    {s:"tga-2026-resident-evil-requiem", t:"Resident Evil Requiem and the heroine who is afraid", g:null, c:"analises"},
     {s:"tga-2026-ocarina-of-time", t:"Ocarina of Time: the remake isn't up against the game, it's up against the memory", g:null, c:"analises"},
     {s:"tga-2026-polemica", t:"GTA 6, Zelda and no Sony: why The Game Awards turned into a fan war", g:null, c:"cultura"},
     {s:"gta-6-dia-seguinte", t:"The day after: what's left when the wait for GTA 6 is over", g:null, c:"conceitos"},

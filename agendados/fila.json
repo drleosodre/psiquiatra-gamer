@@ -696,7 +696,7 @@
     },
     {
       "slug": "tga-2026-resident-evil-requiem",
-      "status": "pendente",
+      "status": "publicado",
       "pt": {
         "chip_classe": "analises",
         "chip_card": "Análises",
@@ -712,7 +712,8 @@
         "titulo": "Resident Evil Requiem and the heroine who is afraid",
         "descricao": "Leon, Grace and His Majesty the Ego: Freud on why fiction lets us be afraid without shame.",
         "resumo_feed": "his majesty the ego and the right to be afraid"
-      }
+      },
+      "publicado_em": "2026-11-27"
     },
     {
       "slug": "tga-2026-007-first-light",

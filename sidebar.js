@@ -2,6 +2,7 @@
    Ao publicar um post novo, adicionar um item no início do array POSTS abaixo. */
 (function(){
   var POSTS = [
+    {s:"tga-2026-resident-evil-requiem", t:"Resident Evil Requiem e a heroína que tem medo", g:null, c:"analises"},
     {s:"tga-2026-ocarina-of-time", t:"Ocarina of Time: o remake não compete com o jogo, compete com a lembrança", g:null, c:"analises"},
     {s:"tga-2026-polemica", t:"GTA 6, Zelda e a Sony de fora: por que o The Game Awards virou guerra de torcida", g:null, c:"cultura"},
     {s:"gta-6-dia-seguinte", t:"O dia seguinte: o que sobra quando a espera pelo GTA 6 acaba", g:null, c:"conceitos"},
